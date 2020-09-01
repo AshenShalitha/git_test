@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test_init_stg
+=======
+test_init
+dev_test1
+dev_test2
+>>>>>>> dev
